@@ -1,0 +1,37 @@
+{
+  "nextPageIndex": 5,
+  "notebooks": [
+    {
+      "name": "Web",
+      "color": "#9055d8",
+      "icon": "book",
+      "pages": [
+        {
+          "title": "HTML",
+          "fileName": "0.json",
+          "favorite": false
+        },
+        {
+          "title": "CSS",
+          "fileName": "1.json",
+          "favorite": false
+        },
+        {
+          "title": "JavaScript",
+          "fileName": "2.json",
+          "favorite": false
+        },
+        {
+          "title": "TypeScript",
+          "fileName": "3.json",
+          "favorite": false
+        },
+        {
+          "title": "NodeJS",
+          "fileName": "4.json",
+          "favorite": false
+        }
+      ]
+    }
+  ]
+}
