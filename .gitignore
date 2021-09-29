@@ -8,3 +8,6 @@ Network Persistent State
 Preferences
 Session Storage/
 prefs.json
+SS
+SingletonCookie
+SingletonLock
