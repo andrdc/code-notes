@@ -1,0 +1,3 @@
+Enums
+WTFs
+checksum_v1 = 1f59d149725e45b534cd8e6217371324
