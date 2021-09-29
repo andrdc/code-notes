@@ -1,5 +1,5 @@
 {
-  "nextPageIndex": 5,
+  "nextPageIndex": 7,
   "notebooks": [
     {
       "name": "Web",
@@ -29,6 +29,23 @@
         {
           "title": "NodeJS",
           "fileName": "4.json",
+          "favorite": false
+        }
+      ]
+    },
+    {
+      "name": "Clean Code",
+      "color": "#5073dc",
+      "icon": "book",
+      "pages": [
+        {
+          "title": "Clean Code",
+          "fileName": "5.json",
+          "favorite": false
+        },
+        {
+          "title": "Names",
+          "fileName": "6.json",
           "favorite": false
         }
       ]
