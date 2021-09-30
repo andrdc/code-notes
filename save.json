@@ -1,5 +1,5 @@
 {
-  "nextPageIndex": 8,
+  "nextPageIndex": 9,
   "notebooks": [
     {
       "name": "Web",
@@ -51,6 +51,11 @@
         {
           "title": "Function Size",
           "fileName": "7.json",
+          "favorite": false
+        },
+        {
+          "title": "Function Structure",
+          "fileName": "8.json",
           "favorite": false
         }
       ]
