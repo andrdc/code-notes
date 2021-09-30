@@ -11,3 +11,5 @@ prefs.json
 SS
 SingletonCookie
 SingletonLock
+VideoDecodeStats/
+shared_proto_db/
