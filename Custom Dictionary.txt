@@ -1,3 +1,5 @@
 Enums
+Getters
 WTFs
-checksum_v1 = 1f59d149725e45b534cd8e6217371324
+polymorphism
+checksum_v1 = 0f0da6e24709706c672798f9743ef724
