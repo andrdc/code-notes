@@ -1,5 +1,6 @@
 Enums
 Getters
+Globals
 WTFs
 polymorphism
-checksum_v1 = 0f0da6e24709706c672798f9743ef724
+checksum_v1 = ff532fe18ef5a50e3700d3b73014d5cd
