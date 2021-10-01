@@ -1,1 +1,1 @@
-{"type":"doc","content":[{"type":"heading","attrs":{"level":1,"class":"pm-align--left"},"content":[{"type":"text","text":"TypeScript"}]}]}
+{"type":"doc","content":[{"type":"heading","attrs":{"level":1,"class":"pm-align--left"},"content":[{"type":"text","text":"TypeScript"}]},{"type":"paragraph","attrs":{"class":"pm-align--left"},"content":[{"type":"text","text":"JavaScript superset. Built on top of JavaScript."}]},{"type":"paragraph","attrs":{"class":"pm-align--left"},"content":[{"type":"text","text":"TypeScript compiles into JavaScript."}]}]}
